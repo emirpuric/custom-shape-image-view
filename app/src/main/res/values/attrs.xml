@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomShapeImageView">
+
+        <attr name="civ_borderWidth" format="dimension"/>
+        <attr name="civ_borderColor" format="color"/>
+        
+        <attr name="civ_borderRadius" format="dimension"/>
+
+        <attr name="civ_shape" format="enum">
+            <enum name="circle" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="diagonal" value="2"/>
+            <enum name="star" value="3"/>
+            <enum name="heart" value="4"/>
+        </attr>
+
+    </declare-styleable>
+
+</resources>

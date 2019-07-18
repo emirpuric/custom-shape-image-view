@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Custom Image View</string>
+    
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="consectetur">Consectetur adipiscing elit</string>
+
+    <string name="dignissim">Dignissim cras</string>
+    <string name="quam_vulputate">Quam vulputate dignissim </string>
+
+    <string name="scelerisque">Scelerisque viverra</string>
+    <string name="tristique">Tristique nulla aliquet enim</string>
+
+    <string name="star_text">Pellentesque habitant morbi tristique senectus et netus et. Risus sed vulputate odio ut enim blandit volutpat maecenas. Commodo odio aenean sed adipiscing diam. Nec ullamcorper sit amet risus nullam eget felis. Erat imperdiet sed euismod nisi porta. Aliquam faucibus purus in massa tempor. Enim diam vulputate ut pharetra sit amet aliquam id diam. Et tortor at risus viverra. Aliquet lectus proin nibh nisl condimentum. Sit amet volutpat consequat mauris nunc congue. Vel eros donec ac odio tempor.</string>
+</resources>
